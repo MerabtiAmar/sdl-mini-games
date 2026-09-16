@@ -1,0 +1,10 @@
+build/
+*.exe
+*.dll
+*.o
+obj/
+bin/
+*.depend
+*.layout
+stdout.txt
+stderr.txt
